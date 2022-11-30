@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "0-current_working_directory\n100-lets_move\n101-clean_emacs\n102-tree\n103-commas\n10-back\n11-lists\n12-file_type\n13-symbolic_link\n14-copy_html\n1-listit\n2-bring_me_home\n3-listfiles\n4-listmorefiles\n5-listfilesdigitonly\n6-firstdirectory\n7-movethatfile\n8-firstdelete\n9-firstdirdeletion\nREADME.md\nschool.mgc"
+ls
